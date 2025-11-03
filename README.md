@@ -3,6 +3,6 @@
 
 ### Table of contents:
 1. [Assignment I: Data and Feature engineering] (./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
-2. Assignment II:
+2. [Assignment II: Joining DataFrames] (./Assignment_2/2_02_Joining_DataFrames_COMPLETED.ipynb)
 
 #### License: This work is released under the MIT License.
