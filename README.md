@@ -10,4 +10,7 @@
 6. [Assignment VI: Linear Regression] (./Assignment_6/4_01_Linear_Regression_(statistics_vs_machine_learning)_COMPLETED.ipynb)
 7. [Assignment VII: Decision Tree] (./Assignment_7/4_01_Decision_Trees_COMPLETED.ipynb)
 8. [Assignment VIII: Logistic Regression] (./Assignment_8/4_02_Logistics_Regression_COMPLETED.ipynb)
+9. [Assignment IX: Random Forest & GBDT] (./Assignment_9/5_01_Random_Forest_and_GBDT_COMPLETED.ipynb)
+10. [Assignment X: Modeling Hackton] (./Assignment_10/5_02_Modelling_Hackathon_COMPLETED.ipynb)
+
 #### License: This work is released under the MIT License.
