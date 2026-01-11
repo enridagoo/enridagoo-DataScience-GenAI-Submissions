@@ -12,5 +12,9 @@
 8. [Assignment VIII: Logistic Regression] (./Assignment_8/4_02_Logistics_Regression_COMPLETED.ipynb)
 9. [Assignment IX: Random Forest & GBDT] (./Assignment_9/5_01_Random_Forest_and_GBDT_COMPLETED.ipynb)
 10. [Assignment X: Modeling Hackton] (./Assignment_10/5_02_Modelling_Hackathon_COMPLETED.ipynb)
+11. [Assignment XI: Logistic Regression in Pytorch] (./Assignment_11/6_01_logistic_regression_in_pytorch_COMPLETED.ipynb)
+12. [Assignment XII: Deep Neural Network] (./Assignment_12/6_02_DNN_101_COMPLETED.ipynb)
+13. [Assignment XIII: Convolutional Neural Network] (./Assignment_13/7_01_convolutional_neural_networks_COMPLETED.ipynb)
+14. [Assignment XIV: Transformer Backbone and Finetuning] (./Assignment_14/8_01_Transformer_Backbone_and_Finetuning_COMPLETED.ipynb)
 
 #### License: This work is released under the MIT License.
